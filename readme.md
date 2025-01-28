@@ -4,7 +4,7 @@ This repository contains the assets for a very simple cable holder design I made
 
 It is by no means a complex design at all, and I'm only sharing it for documentations sake, really. Feel free to use it though, just keep the license in mind.
 
-This design was creating using FreeCAD. I am self-taught and a beginner, so there may be many flaws.
+This design was created using FreeCAD. I am self-taught and a beginner, so there may be many flaws.
 
 ## Printing
 I printed it with eSun PLA+ with the following settings on a Sovol SV06 with default firmware:
@@ -37,7 +37,7 @@ The main purpose of the design is to guide cables through it and push it onto a 
 
 The goal was to make the design as simple to create and print as possible, hence the slightly minimalist nature of the design.
 
-Other usecases may include using it as some form of... spaghetti holder?
+Other use-cases may include using it as some form of... spaghetti holder?
 
 ## Design limitations
 The design only supports table thicknesses ranging from about 20 mm to 30 mm, but this is easily modifiable if needed.
