@@ -12,6 +12,7 @@ I printed it with eSun PLA+ with the following settings on a Sovol SV06 with def
 - 215 C end temperature, 60 C bed temp
 - generate supports: true
 - 3 mm layer height
+- 70% infill
 
 Sliced in Cura. I recommend orienting the print such that the layers run vertically, for maximum strength.
 
